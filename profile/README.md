@@ -186,9 +186,24 @@ No unnecessary restrictions.**
 
 ## License
 
-Arca Framework is open source.
+Arca Framework is **source available**, not open source.
 
-Individual repositories may use different licenses. Please check the `LICENSE` file within the relevant repository before using or redistributing code.
+**You may:**
+
+* Use Arca on any FiveM server, including commercial servers (paid access, donations, Tebex stores, etc.).
+* Modify Arca for use on your own server(s).
+* Build and sell your **own** resources that work with or depend on Arca API, as long as they don't include Arca's code.
+
+**You may not:**
+
+* Sell, resell, sublicense, or otherwise charge for Arca or any part of it, modified or unmodified.
+* Redistribute Arca, or bundle it into another product or package, without written permission.
+* Remove or alter copyright, license, or attribution notices.
+* Present Arca, or a modified version of it, as your own work.
+
+Arca is provided "as is", without warranty of any kind.
+
+This License policy applies to all Arca Resources!
 
 ---
 
