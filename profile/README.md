@@ -7,9 +7,9 @@
 <p align="center">
   <a href="https://github.com/arca-framework">GitHub</a>
   ·
-  <a href="https://docs.arca.dev">Documentation</a>
+  <a href="https://arca-framework.github.io/Arca-Website/wiki.html">Documentation</a>
   ·
-  <a href="https://discord.gg/YOUR-INVITE">Discord</a>
+  <a href="https://discord.gg/w3A3B4BBRz">Discord</a>
 </p>
 
 ---
@@ -143,8 +143,6 @@ Before opening a pull request:
 5. Update documentation where necessary.
 6. Provide a clear description of your changes.
 
-More information will be available in `CONTRIBUTING.md`.
-
 ---
 
 ## Community
@@ -154,7 +152,7 @@ Have a question, found a bug, or want to discuss Arca?
 Join the community:
 
 <p align="center">
-  <a href="https://discord.gg/YOUR-INVITE">
+  <a href="https://discord.gg/w3A3B4BBRz">
     <img src="https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
